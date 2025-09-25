@@ -80,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
 </div>
 
+###
+
 <div align="center">
 
   <h3 align="center">📫 Connect with Me</h3>
@@ -87,3 +89,5 @@
   [LinkedIn](https://www.linkedin.com/in/itspandrade) • [Email](mailto:pauloafonsoandrade96@gmail.com)
 
 </div>
+
+###
